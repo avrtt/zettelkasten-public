@@ -1,0 +1,1 @@
+[eastern-philosophy](eastern-philosophy)

@@ -1,0 +1,11 @@
+[geography](geography.md)
+[philosophy](philosophy)
+[culture](culture)
+[history](history)
+[political-science](political-science)
+[sociology](sociology)
+[informatics](informatics)
+[mathematics](mathematics)
+[botany](botany)
+[psychology](psychology)
+

@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1BY-Kt1MJHmlL1I9c5uHNjouXiCqG0ShGNS2meIUyh7M/edit?gid=322251482#gid=322251482",
+      "displayName": "Habits",
+      "icon": "🌱",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.bigtimer.net/?minutes=300&repeat=false",
+      "displayName": "Timer",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 0
+}
